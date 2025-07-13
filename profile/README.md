@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-A set of pretty cool stuff made by a certain birb!
+A community and team of people making your anime games playable on linux!
